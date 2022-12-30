@@ -28,6 +28,9 @@ import isAuth from "../lib/isAuth";
 const useStyles = makeStyles((theme) => ({
   body: {
     padding: "60px 60px",
+    backgroundImage: `url("https://img.freepik.com/free-vector/blue-abstract-gradient-wave-vector-background_53876-111548.jpg?w=360")`,
+    backgroundRepeat: 'no-repeat',
+    backgroundSize: '400%', 
   },
   inputBox: {
     width: "400px",

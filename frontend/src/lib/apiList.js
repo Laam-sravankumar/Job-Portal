@@ -1,4 +1,4 @@
-export const server = "http://localhost:4444";
+export const server = "https://jb-a18k.onrender.com";
 
 const apiList = {
   login: `${server}/auth/login`,

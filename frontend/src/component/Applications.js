@@ -195,7 +195,7 @@ const ApplicationTile = (props) => {
             flexDirection: "column",
             justifyContent: "center",
             minWidth: "30%",
-            alignItems: "center",
+            alignItems: "center", 
           }}
         >
           <Rating
